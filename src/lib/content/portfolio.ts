@@ -23,7 +23,7 @@ export const seoData = {
     'Kushal Sharma is a full stack developer who specializes in building web applications',
   author: author.name,
   image:
-    'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
+    'https://raw.githubusercontent.com/skushal746/Portfolio-Agua/refs/heads/main/public/images/skushal746.png',
   url: 'https://www.skushal746.com/',
   keywords: [
     'Kushal',
